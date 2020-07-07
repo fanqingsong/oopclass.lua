@@ -1,9 +1,13 @@
-# oopclass.lua
+# Class4Lua
 
-提供lua的 Object Oriented Programing Class 实现：
-比其他实现更加轻量 https://github.com/Yonaba/Lua-Class-System
-特色功能：
-1、 虚类声明
-2、 单例声明
-3、 类冰封， 一旦冰封后， 类的属性不能被改变。
+a lightweight object oriented programming tool of lua language 
 
+Because Lua is Object-based Object Oriented Programming language, so there isn't class keyword for usage.
+The repo tries to give a simple solution to mimic class.
+
+Compared to other implementation, 
+https://github.com/Yonaba/Lua-Class-System
+It has special features:
+(1) virtual class declaration
+(2) single-instance declaration
+(3) frozen for class. once frozen, the class properties cannot be changed.
