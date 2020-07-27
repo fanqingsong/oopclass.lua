@@ -1,4 +1,4 @@
-# Class4Lua
+# Class for Lua
 
 a lightweight object oriented programming tool of lua language 
 
